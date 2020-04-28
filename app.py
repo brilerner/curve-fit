@@ -271,4 +271,3 @@ class Fit(param.Parameterized):
 
 a = Fit()
 a.view()
-
