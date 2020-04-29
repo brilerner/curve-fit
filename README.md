@@ -1,3 +1,3 @@
 # curve-fit
 
-![curve-fit gif demo](demo/demo.gif)
+![curve-fit gif demo](demo/core_demo.gif)
